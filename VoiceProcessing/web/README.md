@@ -10,7 +10,7 @@
 
 ### Link Youtube demo: https://youtu.be/DH7L9_aZEEw
 
-### Ý tưởng tham khảo: Shazam (https://www.shazam.com/apps)
+### Ý tưởng tham khảo: [Shazam](https://www.shazam.com/apps)
 ## Mô tả dự án: 
 
 - Đôi khi chúng ta đi ra quán cafe hoặc ở ngoài đường nghe được 1 đoạn nhạc nào đó rất hay nhưng lại không biết được tên bài hát để có thể tìm và tải về máy vậy nên project này giúp cho người dùng có thể thu âm 1 đoạn nhạc sau đó sẽ nhận lại được tên bài hát với điều kiện bài hát đó đã được phân tích và lưu trong CSDL của project.
